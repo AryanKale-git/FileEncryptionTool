@@ -81,8 +81,3 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📃 License
-
-All rights reserved**
-under IT act 2000
-
